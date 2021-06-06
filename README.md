@@ -16,10 +16,18 @@
  
 ## initial schema : 
 
-![01](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/Screenshot%20from%202021-06-06%2015-08-22.png)
-![02](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/Screenshot%20from%202021-06-06%2015-10-31.png)
-![03](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/Screenshot%20from%202021-06-06%2015-11-17.png)
-![04](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/Screenshot%20from%202021-06-06%2015-11-39.png)
-![05](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/Screenshot%20from%202021-06-06%2015-12-16.png)
+![all tables](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/all-tables.png)
+### tables descriptions 
+![01](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/employee-passenger-fare-desc.png)
+![02](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/fare-station-train-desc.png)
+![03](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/station-train-ticket-desc.png)
+![04](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/time-class-route-desc.png)
 
-
+### test tables 
+![05](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/class.png)
+![06](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/employee.png)
+![07](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/fare.png)
+![08](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/passenger.png)
+![09](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/route.png)
+![10](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/time.png)
+![11](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/train-station.png)
