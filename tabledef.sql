@@ -68,7 +68,7 @@ FOREIGN KEY(train_id) REFERENCES trains(train_id) ON DELETE CASCADE
 );
  
 CREATE TABLE ticket(
-ticketno INT PRIMARY KEY NOT NULL,
+ticketno INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
 source VARCHAR(3),
 dest VARCHAR(3),
 fare DECIMAL(5,2),
