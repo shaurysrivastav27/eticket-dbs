@@ -14,5 +14,10 @@
 ##### ticket	: the table containing the data related to ticket details with ticket no.,souce ,destination,fare and train id;
 ##### class     : the table containing the data related to class with date of journey,class,seat number;
  
-#initial schema : 
+## initial schema : 
 
+![01](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/Screenshot%20from%202021-06-06%2015-08-22.png)
+![02](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/Screenshot%20from%202021-06-06%2015-10-31.png)
+![03](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/Screenshot%20from%202021-06-06%2015-11-17.png)
+![04](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/Screenshot%20from%202021-06-06%2015-11-39.png)
+![05](https://github.com/shaurysrivastav27/etciket-dbs/blob/main/images/Screenshot%20from%202021-06-06%2015-12-16.png)
